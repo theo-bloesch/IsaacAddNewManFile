@@ -4,7 +4,7 @@ I use this urdf file:
 
  located at :
 
-`/home/theobloesch/.local/share/ov/pkg/isaac-sim-4.2.0/extscache/omni.importer.urdf-1.14.1+106.0.0.lx64.r.cp310/data/urdf/robots/cobotta_pro_900`
+```/home/theobloesch/.local/share/ov/pkg/isaac-sim-4.2.0/extscache/omni.importer.urdf-1.14.1+106.0.0.lx64.r.cp310/data/urdf/robots/cobotta_pro_900```
 
 that I copied in another folder easier to reach.
 
